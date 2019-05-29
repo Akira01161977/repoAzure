@@ -1,4 +1,4 @@
-
+<servers>
 	<server>
 		<id>my-repo-bucket-snapshot</id>
 		<username>pifmvnrepository</username>
@@ -10,4 +10,3 @@
 		<password>5PExBvr25P7dls6g9BuWxziz2pXxl2I1NOZkJoj1t5TNHAwti2VHPJzpH4+QGGmPp76oH4FrodkyQDyFgLAW/g==</password>
 	</server>
 	
-</servers>

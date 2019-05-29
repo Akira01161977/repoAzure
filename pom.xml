@@ -40,12 +40,12 @@
 <distributionManagement>
     <snapshotRepository>
         <id>my-repo-bucket-snapshot</id>
-        <url>bs://mavenrepos/snapshot</url>
+        <url>bs://pifmvnrepo/fcs-delegator-snapshot</url>
         
     </snapshotRepository>
     <repository>
         <id>my-repo-bucket-release</id>
-        <url>bs://mavenrepos/release</url>
+        <url>bs://pifmvnrepo/fcs-delegator-release</url>
     </repository>
 </distributionManagement>
 

@@ -1,0 +1,10 @@
+<server>
+	<id>my-repo-bucket-snapshot</id>
+	<username>pifmvnrepo</username>
+	<password>T31ycPburh1DLW/q7SYZf0T38rbE2mveJ0v+hpWSC5dDYs526/7Bm3DNkj9ka2pjPnjWbQiaDU6hKIyq27pdpw==</password>
+</server>
+<server>
+	<id>my-repo-bucket-release</id>
+	<username>pifmvnrepo</username>
+	<password>T31ycPburh1DLW/q7SYZf0T38rbE2mveJ0v+hpWSC5dDYs526/7Bm3DNkj9ka2pjPnjWbQiaDU6hKIyq27pdpw==</password>
+</server>

@@ -38,11 +38,11 @@
 
 <distributionManagement>
     <snapshotRepository>
-        <id>my-repo-bucket-snapshot</id>
+        <id>bucket-snapshot</id>
         <url>bs://pifmvnrepository/snapshot</url>
     </snapshotRepository>
     <repository>
-        <id>my-repo-bucket-release</id>
+        <id>bucket-release</id>
         <url>bs://pifmvnrepository/release</url>
     </repository>
 </distributionManagement>
